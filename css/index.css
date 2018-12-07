@@ -1,0 +1,112 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    /*width: 90%;*/
+    line-height: 30px;
+    font-family: 'Roboto Mono', monospace;
+
+
+}
+a{
+	text-decoration: none;
+	color: black;
+
+}
+
+nav {
+	background-color: white;
+	width:100%;
+	height: 50px; 
+    border-radius: 20px;
+
+    
+}
+
+ul  {
+
+}
+
+li  {
+		list-style: none;
+		display: inline-block;
+		margin-left: 250px;
+        color: black;
+        margin-top: 15px;
+
+}
+li:hover {
+    font-weight: bold;
+
+}
+h2 , h3 {
+font-family: 'Rajdhani', sans-serif;
+}
+.card {
+   background-color: rgb(241, 242, 225,.6);
+
+
+}
+
+.border {
+    border-bottom: solid 1px #ccc;
+}
+.main {
+    display: flex;
+    flex-wrap: wrap;
+}
+/*.tw {
+    color: red;
+
+}*/
+.imgegypt {
+    z-index: 2;
+
+
+}
+
+#main {
+ margin: 30px 34px;
+    display: flex;
+    flex-wrap: wrap;
+/*    flex-direction: column;*/
+
+
+}
+
+#main2 {
+     margin: 30px 34px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+#main div {
+    margin: -8px 10px;
+    width: 550px;
+    height: 400px;
+    margin-bottom: 320px;
+    margin-left: 100px;
+    
+
+}
+
+.wijziging {
+color: red;
+
+}
+
+.logoww {
+    width: 12%;
+    height: 12%;
+    margin: 0 242px;
+
+}
+.imgproduct {
+    width: 200px;
+    height: 200px;
+    margin: 0 350px;
+}
+.verwijderen {
+    width: 200px;
+    height: 30px;
+}
